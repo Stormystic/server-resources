@@ -1,0 +1,132 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"1": "teleporter:block/teleporter/temp_base",
+		"2": "teleporter:block/teleporter/temp_core_active",
+		"3": "teleporter:block/teleporter/temp_side",
+		"4": "teleporter:block/teleporter/temp_top_active",
+		"particle": "minecraft:block/glass"
+	},
+	"elements": [
+		{
+			"name": "Block Outer",
+			"from": [-0.01, -0.01, -0.01],
+			"to": [0.01, 16.01, 16.01],
+			"faces": {
+				"north": {"uv": [0, 0, 0.02, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 0.02, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 0.02, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 0.02, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "Block Outer",
+			"from": [15.99, -0.01, -0.01],
+			"to": [16.01, 16.01, 16.01],
+			"faces": {
+				"north": {"uv": [0, 0, 0.02, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 0.02, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 0.02, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 0.02, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "Block Outer",
+			"from": [-0.01, -0.01, -0.01],
+			"to": [16.01, 16.01, 0.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 0.02, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 0.02, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 0.02, 16], "rotation": 90, "texture": "#4"},
+				"down": {"uv": [0, 0, 0.02, 16], "rotation": 270, "texture": "#3"}
+			}
+		},
+		{
+			"name": "Block Outer",
+			"from": [-0.01, -0.01, 15.99],
+			"to": [16.01, 16.01, 16.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 0.02, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 0.02, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 0.02, 16], "rotation": 90, "texture": "#4"},
+				"down": {"uv": [0, 0, 0.02, 16], "rotation": 270, "texture": "#3"}
+			}
+		},
+		{
+			"name": "Block Outer",
+			"from": [-0.01, -0.01, -0.01],
+			"to": [16.01, -0.01, 16.01],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "Block Outer",
+			"from": [-0.01, 16.01, -0.01],
+			"to": [16.01, 16.01, 16.01],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
+			}
+		},
+		{
+			"name": "Core Inner",
+			"from": [4.525, 1.025, 4.525],
+			"to": [11.475, 15.725, 11.475],
+			"faces": {
+				"north": {"uv": [0, 0, 6.95, 14.95], "texture": "#2"},
+				"east": {"uv": [0, 0, 6.95, 14.95], "texture": "#2"},
+				"south": {"uv": [0, 0, 6.95, 14.95], "texture": "#2"},
+				"west": {"uv": [0, 0, 6.95, 14.95], "texture": "#2"},
+				"up": {"uv": [0, 0, 6.95, 6.95], "texture": "#1"},
+				"down": {"uv": [0, 0, 6.95, 6.95], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Core Outer",
+			"from": [4.025, 1.025, 4.025],
+			"to": [11.975, 15.725, 11.975],
+			"faces": {
+				"north": {"uv": [8.05, 0, 16, 14.95], "texture": "#2"},
+				"east": {"uv": [8.05, 0, 16, 14.95], "texture": "#2"},
+				"south": {"uv": [8.05, 0, 16, 14.95], "texture": "#2"},
+				"west": {"uv": [8, 0, 16, 14.95], "texture": "#2"},
+				"up": {"uv": [0, 0, 7.95, 7.95], "texture": "#1"},
+				"down": {"uv": [0, 0, 7.95, 7.95], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Plate",
+			"from": [0.275, -0.001, 0.275],
+			"to": [15.725, 1, 15.725],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0.95], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 0.95], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 0.95], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 0.95], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {}
+}
