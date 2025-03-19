@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "dd:emerald"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "dd:emerald"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "dd:emerald"
+      }
+    ]
+  }
+}
