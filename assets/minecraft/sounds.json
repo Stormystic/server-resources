@@ -16,5 +16,95 @@
         "name": "block.wood.step"
       }
     ]
+  },
+  "block.cherry_leaves.break": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.grass.break"
+      }
+    ]
+  },
+  "block.cherry_leaves.place": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.grass.place"
+      }
+    ]
+  },
+  "block.cherry_leaves.hit": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.grass.hit"
+      }
+    ]
+  },
+  "block.cherry_leaves.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.grass.fall"
+      }
+    ]
+  },
+  "block.cherry_leaves.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.grass.step"
+      }
+    ]
+  },
+  "block.azalea_leaves.break": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.grass.break"
+      }
+    ]
+  },
+  "block.azalea_leaves.place": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.grass.place"
+      }
+    ]
+  },
+  "block.azalea_leaves.hit": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.grass.hit"
+      }
+    ]
+  },
+  "block.azalea_leaves.fall": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.grass.fall"
+      }
+    ]
+  },
+  "block.azalea_leaves.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.grass.step"
+      }
+    ]
   }
 }
