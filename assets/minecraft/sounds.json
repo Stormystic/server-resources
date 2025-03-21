@@ -1,0 +1,20 @@
+{
+  "block.nether_wood.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.step"
+      }
+    ]
+  },
+  "block.stem.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.step"
+      }
+    ]
+  }
+}
