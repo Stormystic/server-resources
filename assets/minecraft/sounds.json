@@ -1,14 +1,46 @@
 {
-  "block.nether_wood.step": {
+  "block.cherry_wood.break": {
+    "subtitle": "subtitles.block.generic.break",
     "replace": true,
     "sounds": [
       {
         "type": "event",
-        "name": "block.wood.step"
+        "name": "block.wood.break"
       }
     ]
   },
-  "block.stem.step": {
+  "block.cherry_wood.place": {
+    "subtitle": "subtitles.block.generic.place",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.place"
+      }
+    ]
+  },
+  "block.cherry_wood.hit": {
+    "subtitle": "subtitles.block.generic.hit",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.hit"
+      }
+    ]
+  },
+  "block.cherry_wood.fall": {
+    "subtitle": "subtitles.block.generic.fall",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.fall"
+      }
+    ]
+  },
+  "block.cherry_wood.step": {
+    "subtitle": "subtitles.block.generic.step",
     "replace": true,
     "sounds": [
       {
@@ -18,6 +50,7 @@
     ]
   },
   "block.cherry_leaves.break": {
+    "subtitle": "subtitles.block.generic.break",
     "replace": true,
     "sounds": [
       {
@@ -27,6 +60,7 @@
     ]
   },
   "block.cherry_leaves.place": {
+    "subtitle": "subtitles.block.generic.place",
     "replace": true,
     "sounds": [
       {
@@ -36,6 +70,7 @@
     ]
   },
   "block.cherry_leaves.hit": {
+    "subtitle": "subtitles.block.generic.hit",
     "replace": true,
     "sounds": [
       {
@@ -45,6 +80,7 @@
     ]
   },
   "block.cherry_leaves.fall": {
+    "subtitle": "subtitles.block.generic.fall",
     "replace": true,
     "sounds": [
       {
@@ -54,6 +90,7 @@
     ]
   },
   "block.cherry_leaves.step": {
+    "subtitle": "subtitles.block.generic.footsteps",
     "replace": true,
     "sounds": [
       {
@@ -63,6 +100,7 @@
     ]
   },
   "block.azalea_leaves.break": {
+    "subtitle": "subtitles.block.generic.break",
     "replace": true,
     "sounds": [
       {
@@ -72,6 +110,7 @@
     ]
   },
   "block.azalea_leaves.place": {
+    "subtitle": "subtitles.block.generic.place",
     "replace": true,
     "sounds": [
       {
@@ -81,6 +120,7 @@
     ]
   },
   "block.azalea_leaves.hit": {
+    "subtitle": "subtitles.block.generic.hit",
     "replace": true,
     "sounds": [
       {
@@ -90,6 +130,7 @@
     ]
   },
   "block.azalea_leaves.fall": {
+    "subtitle": "subtitles.block.generic.fall",
     "replace": true,
     "sounds": [
       {
@@ -99,11 +140,167 @@
     ]
   },
   "block.azalea_leaves.step": {
+    "subtitle": "subtitles.block.generic.footsteps",
     "replace": true,
     "sounds": [
       {
         "type": "event",
         "name": "block.grass.step"
+      }
+    ]
+  },
+  "block.nether_wood.break": {
+    "subtitle": "subtitles.block.generic.break",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.break"
+      }
+    ]
+  },
+  "block.nether_wood.place": {
+    "subtitle": "subtitles.block.generic.place",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.place"
+      }
+    ]
+  },
+  "block.nether_wood.hit": {
+    "subtitle": "subtitles.block.generic.hit",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.hit"
+      }
+    ]
+  },
+  "block.nether_wood.fall": {
+    "subtitle": "subtitles.block.generic.fall",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.fall"
+      }
+    ]
+  },
+  "block.nether_wood.step": {
+    "subtitle": "subtitles.block.generic.footsteps",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.step"
+      }
+    ]
+  },
+  "block.stem.break": {
+    "subtitle": "subtitles.block.generic.break",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.break"
+      }
+    ]
+  },
+  "block.stem.place": {
+    "subtitle": "subtitles.block.generic.place",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.place"
+      }
+    ]
+  },
+  "block.stem.hit": {
+    "subtitle": "subtitles.block.generic.hit",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.hit"
+      }
+    ]
+  },
+  "block.stem.fall": {
+    "subtitle": "subtitles.block.generic.fall",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.fall"
+      }
+    ]
+  },
+  "block.stem.step": {
+    "subtitle": "subtitles.block.generic.footsteps",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.wood.step"
+      }
+    ]
+  },
+  "block.netherite_block.break": {
+    "subtitle": "subtitles.block.generic.break",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.metal.break",
+        "pitch": 1.5
+      }
+    ]
+  },
+  "block.netherite_block.place": {
+    "subtitle": "subtitles.block.generic.place",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.metal.place",
+        "pitch": 1.5
+      }
+    ]
+  },
+  "block.netherite_block.hit": {
+    "subtitle": "subtitles.block.generic.hit",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.metal.hit",
+        "pitch": 1.5
+      }
+    ]
+  },
+  "block.netherite_block.fall": {
+    "subtitle": "subtitles.block.generic.fall",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.metal.fall",
+        "pitch": 1.5
+      }
+    ]
+  },
+  "block.netherite_block.step": {
+    "subtitle": "subtitles.block.generic.footsteps",
+    "replace": true,
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.metal.step",
+        "pitch": 1.5
       }
     ]
   }
