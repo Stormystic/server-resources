@@ -90,7 +90,7 @@
     ]
   },
   "block.cherry_leaves.step": {
-    "subtitle": "subtitles.block.generic.footsteps",
+    "subtitle": "subtitles.block.generic.step",
     "replace": true,
     "sounds": [
       {
@@ -140,7 +140,7 @@
     ]
   },
   "block.azalea_leaves.step": {
-    "subtitle": "subtitles.block.generic.footsteps",
+    "subtitle": "subtitles.block.generic.step",
     "replace": true,
     "sounds": [
       {
