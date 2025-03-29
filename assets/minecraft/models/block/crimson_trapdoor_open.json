@@ -1,0 +1,22 @@
+{
+	"parent": "block/thin_block",
+	"textures": {
+		"particle": "block/crimson_trapdoor",
+		"texture": "block/crimson_trapdoor",
+		"side": "dd:block/crimson_trapdoor_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "texture": "#texture"},
+				"east": {"uv": [0, 12, 16, 0], "rotation": 90, "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 16, 16, 0], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 12], "rotation": 90, "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 12, 16, 0], "texture": "#side", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 12], "texture": "#side", "cullface": "down"}
+			}
+		}
+	]
+}
