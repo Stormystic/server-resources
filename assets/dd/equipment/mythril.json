@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "dd:mythril"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "dd:mythril"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "dd:mythril"
+      }
+    ]
+  }
+}
