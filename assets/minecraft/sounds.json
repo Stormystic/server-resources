@@ -2,7 +2,7 @@
   "weather.tornado.outside_far": {
     "sounds": [
       {
-        "type": "sound",
+        "type": "file",
         "name": "ambient/weather/otornado1",
 		"volume": 1.0
       }
@@ -11,7 +11,7 @@
   "weather.tornado.outside_near": {
     "sounds": [
       {
-        "type": "sound",
+        "type": "file",
         "name": "ambient/weather/otornado2",
 		"volume": 1.0
       }
@@ -20,7 +20,7 @@
   "weather.tornado.outside_very_close": {
     "sounds": [
       {
-        "type": "sound",
+        "type": "file",
         "name": "ambient/weather/otornado3",
 		"volume": 1.0
       }
