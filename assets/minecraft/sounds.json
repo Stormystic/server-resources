@@ -4,19 +4,19 @@
       {
         "type": "file",
         "name": "ambient/weather/otornado1_a",
-		"volume": 0.75,
+		"volume": 1.0,
 		"attenuation_distance": 120
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado1_b",
-		"volume": 0.75,
+		"volume": 1.0,
 		"attenuation_distance": 120
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado1_c",
-		"volume": 0.75,
+		"volume": 1.0,
 		"attenuation_distance": 120
       }
     ]
@@ -26,25 +26,25 @@
       {
         "type": "file",
         "name": "ambient/weather/otornado2_a",
-		"volume": 0.9,
+		"volume": 1.0,
 		"attenuation_distance": 120
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado2_b",
-		"volume": 0.9,
+		"volume": 1.0,
 		"attenuation_distance": 120
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado2_c",
-		"volume": 0.9,
+		"volume": 1.0,
 		"attenuation_distance": 120
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado2_d",
-		"volume": 0.9,
+		"volume": 1.0,
 		"attenuation_distance": 120
       }
     ]
@@ -82,19 +82,19 @@
       {
         "type": "file",
         "name": "ambient/weather/itornado1_a",
-		"volume": 0.75,
+		"volume": 0.9,
 		"attenuation_distance": 120
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado1_b",
-		"volume": 0.75,
+		"volume": 0.9,
 		"attenuation_distance": 120
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado1_c",
-		"volume": 0.75,
+		"volume": 0.9,
 		"attenuation_distance": 120
       }
     ]
@@ -132,25 +132,25 @@
       {
         "type": "file",
         "name": "ambient/weather/itornado3_a",
-		"volume": 1.0,
+		"volume": 0.9,
 		"attenuation_distance": 120
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado3_b",
-		"volume": 1.0,
+		"volume": 0.9,
 		"attenuation_distance": 120
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado3_c",
-		"volume": 1.0,
+		"volume": 0.9,
 		"attenuation_distance": 120
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado3_d",
-		"volume": 1.0,
+		"volume": 0.9,
 		"attenuation_distance": 120
       }
     ]
