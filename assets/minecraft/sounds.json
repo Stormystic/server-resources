@@ -5,19 +5,64 @@
         "type": "file",
         "name": "ambient/weather/otornado1_a",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado1_b",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado1_c",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado1_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado1_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado1_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado1_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado1_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado1_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
       }
     ]
   },
@@ -27,25 +72,85 @@
         "type": "file",
         "name": "ambient/weather/otornado2_a",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado2_b",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado2_c",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado2_d",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado2_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado2_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado2_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado2_d",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado2_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado2_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado2_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado2_d",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
       }
     ]
   },
@@ -55,25 +160,85 @@
         "type": "file",
         "name": "ambient/weather/otornado3_a",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado3_b",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado3_c",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/otornado3_d",
 		"volume": 1.0,
-		"attenuation_distance": 120
+		"attenuation_distance": 120,
+        "pitch": 1.0
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado3_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado3_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado3_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado3_d",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado3_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado3_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado3_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/otornado3_d",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
       }
     ]
   },
@@ -82,20 +247,65 @@
       {
         "type": "file",
         "name": "ambient/weather/itornado1_a",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado1_b",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado1_c",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado1_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado1_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado1_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado1_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado1_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado1_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
       }
     ]
   },
@@ -104,26 +314,86 @@
       {
         "type": "file",
         "name": "ambient/weather/itornado2_a",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado2_b",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado2_c",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado2_d",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado2_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado2_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado2_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado2_d",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado2_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado2_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado2_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado2_d",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
       }
     ]
   },
@@ -132,26 +402,86 @@
       {
         "type": "file",
         "name": "ambient/weather/itornado3_a",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado3_b",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado3_c",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
       },
       {
         "type": "file",
         "name": "ambient/weather/itornado3_d",
-		"volume": 0.9,
-		"attenuation_distance": 120
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.0
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado3_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado3_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado3_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado3_d",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 1.1
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado3_a",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado3_b",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado3_c",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
+      },
+      {
+        "type": "file",
+        "name": "ambient/weather/itornado3_d",
+		"volume": 1.0,
+		"attenuation_distance": 120,
+        "pitch": 0.9
       }
     ]
   },
