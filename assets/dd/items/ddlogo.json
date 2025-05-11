@@ -1,0 +1,12 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "dd:item/ddlogo",
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": 16777215
+			}
+		]
+	}
+}
