@@ -48,16 +48,12 @@ void main() {
 
     if (NightVisionFactor > 0.0) {
         // scale up uniformly until 1.0 is hit by one of the colors
-        float max_component = max(color.r, max(color.g, color.b));
-        if (max_component < 1.0) {
-            vec3 bright_color = color / max_component;
-            color = mix(color, bright_color, NightVisionFactor);
-        }
+        color = mix(color, vec3(1.0,1.0,1.0), NightVisionFactor);
     }
 
-    if (UseBrightLightmap == 0) {
-        color = clamp(color - vec3(DarknessScale), 0.0, 1.0);
-    }
+//    if (UseBrightLightmap == 0) {
+//        color = clamp(color - vec3(DarknessScale), 0.0, 1.0);
+//    }
 
     vec3 notGamma = notGamma(color);
     color = mix(color, notGamma, BrightnessFactor);
