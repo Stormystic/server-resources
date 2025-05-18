@@ -1,0 +1,27 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "dd:block/classic/ultramarine_bricks"
+	},
+	"elements": [
+		{
+			"from": [-4, -4, -4],
+			"to": [20, 20, 20],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [-30, 0, 0],
+			"translation": [0, -18.50, -14.20],
+			"scale": [3.972, 3.972, 3.972]
+		}
+	}
+}
