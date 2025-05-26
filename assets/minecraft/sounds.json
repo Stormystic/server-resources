@@ -789,5 +789,24 @@
         "pitch": 1.5
       }
     ]
+  },
+  "item.sword_parry": {
+    "sounds": [
+      {
+        "type": "file",
+        "name": "item/sword/parry"
+        "volume": 0.05
+      },
+      {
+        "type": "file",
+        "name": "item/sword/parry_2"
+        "volume": 0.05
+      },
+      {
+        "type": "file",
+        "name": "item/sword/parry_3",
+        "volume": 0.05
+      }
+    ]
   }
 }
