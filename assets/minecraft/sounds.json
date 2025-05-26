@@ -790,16 +790,16 @@
       }
     ]
   },
-  "item.sword_parry": {
+  "item.sword.parry": {
     "sounds": [
       {
         "type": "file",
-        "name": "item/sword/parry"
+        "name": "item/sword/parry",
         "volume": 0.05
       },
       {
         "type": "file",
-        "name": "item/sword/parry_2"
+        "name": "item/sword/parry_2",
         "volume": 0.05
       },
       {
