@@ -795,17 +795,46 @@
       {
         "type": "file",
         "name": "item/sword/parry",
-        "volume": 0.05
+        "volume": 0.5
       },
       {
         "type": "file",
         "name": "item/sword/parry_2",
-        "volume": 0.05
+        "volume": 0.5
       },
       {
         "type": "file",
         "name": "item/sword/parry_3",
-        "volume": 0.05
+        "volume": 0.5
+      }
+    ]
+  },
+  "item.shield.deflect": {
+    "subtitle": "Shield deflects",
+    "sounds": [
+      {
+        "type": "file",
+        "name": "item/shield/deflect",
+        "volume": 0.5,
+        "pitch": 1.0
+      },
+      {
+        "type": "file",
+        "name": "item/shield/deflect",
+        "volume": 0.5,
+        "pitch": 1.01
+      },
+      {
+        "type": "file",
+        "name": "item/shield/deflect",
+        "volume": 0.5,
+        "pitch": 1.02
+      },
+      {
+        "type": "file",
+        "name": "item/shield/deflect",
+        "volume": 0.5,
+        "pitch": 1.03
       }
     ]
   }
