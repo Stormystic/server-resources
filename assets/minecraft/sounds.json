@@ -837,5 +837,27 @@
         "pitch": 1.03
       }
     ]
+  },
+  "entity.worm.move": {
+    "subtitle": "PP worm moves",
+    "sounds": [
+      {
+        "type": "file",
+        "name": "entity/worm/move",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.worm.suck": {
+    "subtitle": "PP worm succs",
+    "sounds": [
+      {
+        "type": "file",
+        "name": "entity/worm/succ",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
   }
 }
