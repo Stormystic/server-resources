@@ -790,21 +790,21 @@
       }
     ]
   },
-  "item.sword.parry": {
+  "item.shield.clang": {
     "sounds": [
       {
         "type": "file",
-        "name": "item/sword/parry",
+        "name": "item/shield/clang",
         "volume": 0.5
       },
       {
         "type": "file",
-        "name": "item/sword/parry_2",
+        "name": "item/shield/clang_2",
         "volume": 0.5
       },
       {
         "type": "file",
-        "name": "item/sword/parry_3",
+        "name": "item/shield/clang_3",
         "volume": 0.5
       }
     ]
