@@ -45,10 +45,11 @@ void main() {
     }
 
     if (lightmapInfo.NightVisionFactor > 0.0) {
-        color = mix(color, vec3(4.0,4.0,4.0), NightVisionFactor);
+        color = mix(color, vec3(4.0,4.0,4.0), lightmapInfo.NightVisionFactor);
     }
-    if (UseBrightLightmap == 0) {
-        color = clamp(color - vec3(DarknessScale), 0.0, 1.0);
+	
+    if (lightmapInfo.UseBrightLightmap == 0) {
+        color = clamp(color - vec3(lightmapInfo.DarknessScale), 0.0, 1.0);
     }
 
     vec3 notGamma = notGamma(color);
@@ -58,3 +59,4 @@ void main() {
 
     fragColor = vec4(color, 1.0);
 }
+
