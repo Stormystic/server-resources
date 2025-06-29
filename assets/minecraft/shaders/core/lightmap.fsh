@@ -45,17 +45,6 @@ void main() {
     }
 
     if (lightmapInfo.NightVisionFactor > 0.0) {
-    if (lightmapInfo.UseBrightLightmap != 0) {
-        color = mix(color, vec3(0.99, 1.12, 1.0), 0.25);
-        color = clamp(color, 0.0, 1.0);
-    } else {
-        color += lightmapInfo.SkyLightColor * sky_brightness;
-        color = mix(color, vec3(0.75), 0.04);
-
-        vec3 darkened_color = color * vec3(0.7, 0.6, 0.6);
-        color = mix(color, darkened_color, lightmapInfo.DarkenWorldFactor);
-    }
-
         color = mix(color, vec3(4.0,4.0,4.0), NightVisionFactor);
     }
     if (UseBrightLightmap == 0) {
