@@ -33,9 +33,18 @@
         },
         {
             "type": "bitmap",
-            "file": "general:hud/test.png",
-            "ascent": 64,
-            "height": 128,
+            "file": "minecraft:gui/sprites/widget/locked_button.png",
+            "ascent": 10,
+            "height": 20,
+            "chars": [
+                "\u0000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/sprites/widget/unlocked_button.png",
+            "ascent": 10,
+            "height": 20,
             "chars": [
                 "\u0001"
             ]
