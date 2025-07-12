@@ -37,7 +37,7 @@ void main() {
     );
 
     if (lightmapInfo.UseBrightLightmap != 0) {
-        color = clamp(color, 0.0, 1.0);
+        color = mix(clamp(color, 0.0, 1.0), vec3(0.9), 0.5);
     } else {
         color = mix(color, vec3(0.75), 0.04);
         vec3 darkened_color = color * vec3(0.6, 0.6, 0.6);
