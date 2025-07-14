@@ -48,6 +48,24 @@
             "chars": [
                 "\u0001"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "general:hud/secrets_backdrop.png",
+            "ascent": 6,
+            "height": 241,
+            "chars": [
+                "\u0002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "general:hud/secrets_backdrop_hack.png",
+            "ascent": -9,
+            "height": 7,
+            "chars": [
+                "\u0003"
+            ]
         }
     ]
 }
