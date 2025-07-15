@@ -66,6 +66,33 @@
             "chars": [
                 "\u0003"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "general:hud/logo48.png",
+            "ascent": 0,
+            "height": 48,
+            "chars": [
+                "\u0004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "general:hud/logo64nb.png",
+            "ascent": 0,
+            "height": 64,
+            "chars": [
+                "\u0005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "general:hud/logo128.png",
+            "ascent": 0,
+            "height": 128,
+            "chars": [
+                "\u0006"
+            ]
         }
     ]
 }
